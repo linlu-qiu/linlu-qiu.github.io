@@ -15,8 +15,12 @@ I'm an AI Resident at [Google Research](https://research.google), where I work w
 Publications
 ------
 
+[Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing](https://arxiv.org/abs/2205.12253) \
+**Linlu Qiu**, Peter Shaw\*, Panupong Pasupat, Tianze Shi, Jonathan Herzig, Emily Pitler, Fei Sha, Kristina Toutanova \
+Arxiv preprint 2022
+
 [Improving Compositional Generalization with Latent Structure and Data Augmentation](https://arxiv.org/abs/2112.07610) \
-**Linlu Qiu\***, Peter Shaw\*, Panupong Pasupat, Paweł Krzysztof Nowak, Tal Linzen, Fei Sha, Kristina Toutanova \
+**Linlu Qiu**, Peter Shaw\*, Panupong Pasupat, Paweł Krzysztof Nowak, Tal Linzen, Fei Sha, Kristina Toutanova \
 NAACL 2022 (Oral)
 
 [Systematic Generalization on gSCAN: What is Nearly Solved and What is Next?](https://arxiv.org/abs/2109.12243) \
