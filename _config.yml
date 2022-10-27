@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linlu Qiu"
 title_separator          : "-"
 name                     : &name "Linlu Qiu"
-description              : &description "AI Resident @ Google"
+description              : &description "PhD student @ MIT"
 url                      : https://linlu-qiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linlu-qiu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Linlu Qiu"
   avatar           : "profile.png"
-  bio              : "AI Resident @ Google"
+  bio              : "PhD student @ MIT"
   location         :
   employer         :
   pubmed           :

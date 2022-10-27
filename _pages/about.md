@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Linlu Qiu
-======
-I'm an AI Resident at [Google Research](https://research.google), where I work with [Fei Sha](https://viterbi-web.usc.edu/~feisha) and [Pete Shaw](http://www.ptshaw.com). I graduated from Georgia Tech with a Master's in Computational Science and Engineering. Before that, I received my Bachelor's degree from the University of Hong Kong. I'm currently working on compositional generalization and grounded language understanding.
+I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://www.csail.mit.edu), advised by [Yoon Kim](https://people.csail.mit.edu/yoonkim). Previously, I was an AI Resident at [Google Research](https://research.google), where I worked with [Fei Sha](https://viterbi-web.usc.edu/~feisha) and [Peter Shaw](http://www.ptshaw.com). I received my Master's degree from Georgia Tech and Bachelor's degree from the University of Hong Kong. I'm interested in natural language processing.
 
 Publications
 ------
 
 [Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing](https://arxiv.org/abs/2205.12253) \
 **Linlu Qiu**, Peter Shaw, Panupong Pasupat, Tianze Shi, Jonathan Herzig, Emily Pitler, Fei Sha, Kristina Toutanova \
-*Arxiv preprint 2022*
+*EMNLP 2022*
+
+[Generate-and-Retrieve: use your predictions to improve retrieval for semantic parsing](https://arxiv.org/abs/2209.14899) \
+Yury Zemlyanskiy, Michiel de Jong, Joshua Ainslie, Panupong Pasupat, Peter Shaw, **Linlu Qiu**, Sumit Sanghai, Fei Sha \
+*COLING 2022*
 
 [Improving Compositional Generalization with Latent Structure and Data Augmentation](https://arxiv.org/abs/2112.07610) \
 **Linlu Qiu\***, Peter Shaw\*, Panupong Pasupat, Paweł Krzysztof Nowak, Tal Linzen, Fei Sha, Kristina Toutanova \
@@ -32,7 +34,6 @@ Publications
 [Visually Grounded Concept Composition](https://arxiv.org/abs/2109.14115) \
 Bowen Zhang, Hexiang Hu, **Linlu Qiu**, Peter Shaw, and Fei Sha  \
 *Findings of EMNLP 2021*
-
 
 [Quasi-Dense Similarity Learning for Multiple Object Tracking](https://arxiv.org/abs/2006.06664) \
 Jiangmiao Pang, **Linlu Qiu**, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, and Fisher Yu \
