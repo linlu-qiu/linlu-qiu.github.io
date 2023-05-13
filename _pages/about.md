@@ -15,7 +15,8 @@ Publications
 
 [Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing](https://arxiv.org/abs/2205.12253) \
 **Linlu Qiu**, Peter Shaw, Panupong Pasupat, Tianze Shi, Jonathan Herzig, Emily Pitler, Fei Sha, Kristina Toutanova \
-*EMNLP 2022*
+*EMNLP 2022* \
+[\[data\]](https://drive.google.com/file/d/118igrs-jA2k8j4ft-GYVPQOm8xbce7ht/view?usp=sharing)
 
 [Generate-and-Retrieve: use your predictions to improve retrieval for semantic parsing](https://arxiv.org/abs/2209.14899) \
 Yury Zemlyanskiy, Michiel de Jong, Joshua Ainslie, Panupong Pasupat, Peter Shaw, **Linlu Qiu**, Sumit Sanghai, Fei Sha \
