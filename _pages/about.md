@@ -12,6 +12,19 @@ I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://ww
 
 Publications
 ------
+[Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement](https://arxiv.org/abs/2310.08559) \
+**Linlu Qiu**, Liwei Jiang, Ximing Lu, Melanie Sclar, Valentina Pyatkin, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren \
+*Arxiv Preprint 2023* \
+[\[code\]](https://github.com/linlu-qiu/lm-inductive-reasoning)
+
+[Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks](https://arxiv.org/abs/2307.02477) \
+Zhaofeng Wu, **Linlu Qiu**, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, Najoung Kim, Jacob Andreas, Yoon Kim \
+*Arxiv Preprint 2023* \
+[\[code\]](https://github.com/ZhaofengWu/counterfactual-evaluation)
+
+[QDTrack: Quasi-Dense Similarity Learning for Appearance-Only Multiple Object Tracking](https://arxiv.org/abs/2210.06984) \
+Tobias Fischer, Thomas E. Huang, Jiangmiao Pang, **Linlu Qiu**, Haofeng Chen, Trevor Darrell, Fisher Yu \
+*PAMI 2023*
 
 [Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing](https://arxiv.org/abs/2205.12253) \
 **Linlu Qiu**, Peter Shaw, Panupong Pasupat, Tianze Shi, Jonathan Herzig, Emily Pitler, Fei Sha, Kristina Toutanova \
