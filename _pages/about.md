@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://www.csail.mit.edu), advised by [Yoon Kim](https://people.csail.mit.edu/yoonkim). Previously, I was an AI Resident at [Google Research](https://research.google), where I worked with [Fei Sha](https://www.feisha.org) and [Peter Shaw](http://www.ptshaw.com). I received my Master's degree from Georgia Tech and Bachelor's degree from the University of Hong Kong. I'm interested in natural language processing.
+I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://www.csail.mit.edu), advised by [Yoon Kim](https://people.csail.mit.edu/yoonkim). I'm interested in natural language processing. Previously, I was an AI Resident at [Google Research](https://research.google), where I worked with [Fei Sha](https://www.feisha.org) and [Peter Shaw](http://www.ptshaw.com). I received my Master's degree from Georgia Tech and Bachelor's degree from the University of Hong Kong.
 
 Publications
 ------
@@ -19,7 +19,7 @@ Publications
 
 [Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks](https://arxiv.org/abs/2307.02477) \
 Zhaofeng Wu, **Linlu Qiu**, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, Najoung Kim, Jacob Andreas, Yoon Kim \
-*Arxiv Preprint 2023* \
+*NAACL 2024* \
 [\[code\]](https://github.com/ZhaofengWu/counterfactual-evaluation)
 
 [QDTrack: Quasi-Dense Similarity Learning for Appearance-Only Multiple Object Tracking](https://arxiv.org/abs/2210.06984) \
