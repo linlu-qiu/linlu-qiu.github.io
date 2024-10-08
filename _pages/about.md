@@ -12,6 +12,19 @@ I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://ww
 
 Publications
 ------
+[Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](https://arxiv.org/abs/2407.07071) \
+Yung-Sung Chuang, **Linlu Qiu**, Cheng-Yu Hsieh, Ranjay Krishna, Yoon Kim, James Glass \
+*EMNLP 2024* \
+[\[code\]](https://github.com/voidism/Lookback-Lens)
+
+[Learning to Reason via Program Generation, Emulation, and Search](https://arxiv.org/abs/2405.16337) \
+Nathaniel Weir\*, Muhammad Khalifa\*, **Linlu Qiu**, Orion Weller, Peter Clark \
+*NeurIPS 2024*
+
+[Language Model Evolution: An Iterated Learning Perspective](https://arxiv.org/abs/2404.04286) \
+Yi Ren, Shangmin Guo, **Linlu Qiu**, Bailin Wang, Danica J. Sutherland \
+*NeurIPS 2024*
+
 [Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement](https://arxiv.org/abs/2310.08559) \
 **Linlu Qiu**, Liwei Jiang, Ximing Lu, Melanie Sclar, Valentina Pyatkin, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren \
 *ICLR 2024 (Oral)* \
@@ -56,5 +69,8 @@ Jiangmiao Pang, **Linlu Qiu**, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, and 
 
 Experience
 ------
-Research Intern, Allen Institute for AI, 05/2023 - 08/2023 \
+Student Researcher, Google Research, June 2024 - \
+Mentors: [Sjoerd van Steenkiste](https://www.sjoerdvansteenkiste.com), [Tal Linzen](https://tallinzen.net)
+
+Research Intern, Allen Institute for AI, May 2023 - August 2023 \
 Mentors: [Nouha Dziri](https://nouhadziri.github.io), [Xiang Ren](https://shanzhenren.github.io)
