@@ -12,6 +12,14 @@ I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://ww
 
 Publications
 ------
+[Bayesian Teaching Enables Probabilistic Reasoning in Large Language Models](https://arxiv.org/abs/2503.17523) \
+**Linlu Qiu**, Fei Sha, Kelsey Allen, Yoon Kim, Tal Linzen, Sjoerd van Steenkiste \
+*Arxiv Preprint 2025*
+
+[The Surprising Effectiveness of Test-Time Training for Few-Shot Learning](https://arxiv.org/abs/2411.07279) \
+Ekin Akyürek, Mehul Damani\*, Adam Zweiger\*, **Linlu Qiu**, Han Guo, Jyothish Pari, Yoon Kim, Jacob Andreas \
+*Arxiv Preprint 2025*
+
 [Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](https://arxiv.org/abs/2407.07071) \
 Yung-Sung Chuang, **Linlu Qiu**, Cheng-Yu Hsieh, Ranjay Krishna, Yoon Kim, James Glass \
 *EMNLP 2024* \
@@ -21,7 +29,7 @@ Yung-Sung Chuang, **Linlu Qiu**, Cheng-Yu Hsieh, Ranjay Krishna, Yoon Kim, James
 Nathaniel Weir\*, Muhammad Khalifa\*, **Linlu Qiu**, Orion Weller, Peter Clark \
 *NeurIPS 2024*
 
-[Language Model Evolution: An Iterated Learning Perspective](https://arxiv.org/abs/2404.04286) \
+[Bias Amplification in Language Model Evolution: An Iterated Learning Perspective](https://arxiv.org/abs/2404.04286) \
 Yi Ren, Shangmin Guo, **Linlu Qiu**, Bailin Wang, Danica J. Sutherland \
 *NeurIPS 2024*
 
@@ -69,7 +77,7 @@ Jiangmiao Pang, **Linlu Qiu**, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, and 
 
 Experience
 ------
-Student Researcher, Google Research, June 2024 - \
+Student Researcher, Google Research, June 2024 - February 2025 \
 Mentors: [Sjoerd van Steenkiste](https://www.sjoerdvansteenkiste.com), [Tal Linzen](https://tallinzen.net)
 
 Research Intern, Allen Institute for AI, May 2023 - August 2023 \
