@@ -12,13 +12,18 @@ I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://ww
 
 Publications
 ------
+[On the Same Wavelength? Evaluating Pragmatic Reasoning in Language Models across Broad Concepts](https://arxiv.org/abs/2509.06952) \
+**Linlu Qiu\***, Cedegao E. Zhang\*, Joshua B. Tenenbaum, Yoon Kim, Roger P. Levy \
+*EMNLP 2025* \
+[\[code\]](https://github.com/linlu-qiu/wavelength-eval)
+
 [Bayesian Teaching Enables Probabilistic Reasoning in Large Language Models](https://arxiv.org/abs/2503.17523) \
 **Linlu Qiu**, Fei Sha, Kelsey Allen, Yoon Kim, Tal Linzen, Sjoerd van Steenkiste \
 *Arxiv Preprint 2025*
 
 [The Surprising Effectiveness of Test-Time Training for Few-Shot Learning](https://arxiv.org/abs/2411.07279) \
 Ekin Akyürek, Mehul Damani\*, Adam Zweiger\*, **Linlu Qiu**, Han Guo, Jyothish Pari, Yoon Kim, Jacob Andreas \
-*Arxiv Preprint 2025*
+*ICML 2025*
 
 [Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps](https://arxiv.org/abs/2407.07071) \
 Yung-Sung Chuang, **Linlu Qiu**, Cheng-Yu Hsieh, Ranjay Krishna, Yoon Kim, James Glass \
