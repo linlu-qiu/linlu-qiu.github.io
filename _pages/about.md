@@ -12,14 +12,20 @@ I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://ww
 
 Publications
 ------
+[ARC Is a Vision Problem!](https://arxiv.org/abs/2511.14761) \
+Keya Hu, Ali Cy, **Linlu Qiu**, Xiaoman Delores Ding, Runqian Wang, Yeyin Eva Zhu, Jacob Andreas, Kaiming He \
+*ArXiv Preprint 2025* \
+[\[code\]](https://github.com/lillian039/VARC)
+
+[Bayesian Teaching Enables Probabilistic Reasoning in Large Language Models](https://www.nature.com/articles/s41467-025-67998-6) \
+**Linlu Qiu**, Fei Sha, Kelsey Allen, Yoon Kim, Tal Linzen, Sjoerd van Steenkiste \
+*Nature Communications 2026* \
+[\[data](https://zenodo.org/records/17677329), [arXiv\]](https://arxiv.org/abs/2503.17523)
+
 [On the Same Wavelength? Evaluating Pragmatic Reasoning in Language Models across Broad Concepts](https://arxiv.org/abs/2509.06952) \
 **Linlu Qiu\***, Cedegao E. Zhang\*, Joshua B. Tenenbaum, Yoon Kim, Roger P. Levy \
 *EMNLP 2025* \
 [\[code\]](https://github.com/linlu-qiu/wavelength-eval)
-
-[Bayesian Teaching Enables Probabilistic Reasoning in Large Language Models](https://arxiv.org/abs/2503.17523) \
-**Linlu Qiu**, Fei Sha, Kelsey Allen, Yoon Kim, Tal Linzen, Sjoerd van Steenkiste \
-*Arxiv Preprint 2025*
 
 [The Surprising Effectiveness of Test-Time Training for Few-Shot Learning](https://arxiv.org/abs/2411.07279) \
 Ekin Akyürek, Mehul Damani\*, Adam Zweiger\*, **Linlu Qiu**, Han Guo, Jyothish Pari, Yoon Kim, Jacob Andreas \
@@ -82,8 +88,12 @@ Jiangmiao Pang, **Linlu Qiu**, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, and 
 
 Experience
 ------
+Research Intern, Meta FAIR, May 2025 - January 2026 \
+Mentors: [Asli Celikyilmaz](http://asli.us), [Bhargavi Paranjape](https://bhargaviparanjape.github.io)
+
 Student Researcher, Google Research, June 2024 - February 2025 \
 Mentors: [Sjoerd van Steenkiste](https://www.sjoerdvansteenkiste.com), [Tal Linzen](https://tallinzen.net)
 
 Research Intern, Allen Institute for AI, May 2023 - August 2023 \
 Mentors: [Nouha Dziri](https://nouhadziri.github.io), [Xiang Ren](https://shanzhenren.github.io)
+
