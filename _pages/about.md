@@ -12,6 +12,16 @@ I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://ww
 
 Publications
 ------
+[ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) \
+Keya Hu\*, **Linlu Qiu\***, Yiyang Lu, Hanhong Zhao, Tianhong Li, Yoon Kim, Jacob Andreas, Kaiming He \
+*Preprint 2026* \
+[\[code\]](https://github.com/lillian039/ELF)
+
+[Implicit Representations of Grammaticality in Language Models](https://arxiv.org/abs/2605.05197) \
+Yingshan Susan Wang, **Linlu Qiu**, Zhaofeng Wu, Roger P. Levy, Yoon Kim \
+*ACL 2026* \
+[\[code\]](https://github.com/SusanWYS/grammaticality_probe)
+
 [ARC Is a Vision Problem!](https://arxiv.org/abs/2511.14761) \
 Keya Hu, Ali Cy, **Linlu Qiu**, Xiaoman Delores Ding, Runqian Wang, Yeyin Eva Zhu, Jacob Andreas, Kaiming He \
 *CVPR 2026* \
