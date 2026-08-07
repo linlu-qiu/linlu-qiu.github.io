@@ -8,14 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://www.csail.mit.edu), advised by [Yoon Kim](https://people.csail.mit.edu/yoonkim). I'm interested in natural language processing. Previously, I was an AI Resident at [Google Research](https://research.google), where I worked with [Fei Sha](https://www.feisha.org) and [Peter Shaw](http://www.ptshaw.com). I received my Master's degree from Georgia Tech and Bachelor's degree from the University of Hong Kong.
+I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://www.csail.mit.edu), advised by [Yoon Kim](https://people.csail.mit.edu/yoonkim). I work on natural language processing and machine learning. I received my Master's degree from Georgia Tech and Bachelor's degree from the University of Hong Kong.
 
-Publications
+Research
 ------
+[VISTA: A Visual Harness for Reasoning in an Interactive World](https://vista-research.github.io) \
+Qiushi Han\*, Keya Hu\*, **Linlu Qiu\***, Cathy Wu, Kaiming He \
+*Blog post 2026*
+
+[Learning User Simulators with Turing Rewards](https://arxiv.org/abs/2606.19336) \
+Yingshan Susan Wang, Cedegao E. Zhang, **Linlu Qiu**, Zexue He, Pengyuan Li, Alex Pentland, Roger P. Levy, Yoon Kim \
+*Preprint 2026* \
+[\[code\]](https://github.com/SusanWYS/turing-rl)
+
 [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) \
 Keya Hu\*, **Linlu Qiu\***, Yiyang Lu, Hanhong Zhao, Tianhong Li, Yoon Kim, Jacob Andreas, Kaiming He \
 *Preprint 2026* \
-[\[code\]](https://github.com/lillian039/ELF)
+[\[code](https://github.com/lillian039/ELF), [slides](https://lillian039.github.io/assets/html/elf-slides/elf.html), [blog\]](https://linlu-qiu.github.io/assets/html/elf_pd.html)
 
 [Implicit Representations of Grammaticality in Language Models](https://arxiv.org/abs/2605.05197) \
 Yingshan Susan Wang, **Linlu Qiu**, Zhaofeng Wu, Roger P. Levy, Yoon Kim \
@@ -107,3 +116,5 @@ Mentors: [Sjoerd van Steenkiste](https://www.sjoerdvansteenkiste.com), [Tal Linz
 Research Intern, Allen Institute for AI, May 2023 - August 2023 \
 Mentors: [Nouha Dziri](https://nouhadziri.github.io), [Xiang Ren](https://shanzhenren.github.io)
 
+AI Resident, Google Research, October 2020 - August 2022 \
+Mentors: [Fei Sha](https://www.feisha.org), [Peter Shaw](http://www.ptshaw.com)
