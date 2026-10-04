@@ -8,22 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://www.csail.mit.edu), advised by [Yoon Kim](https://people.csail.mit.edu/yoonkim). I work on natural language processing and machine learning. I received my Master's degree from Georgia Tech and Bachelor's degree from the University of Hong Kong.
+I'm a PhD student at MIT [EECS](https://www.eecs.mit.edu) and [CSAIL](https://www.csail.mit.edu), advised by [Yoon Kim](https://people.csail.mit.edu/yoonkim) and [Jacob Andreas](https://www.mit.edu/~jda). I work on natural language processing and machine learning.
 
 Research
 ------
-[VISTA: A Visual Harness for Reasoning in an Interactive World](https://vista-research.github.io) \
+[VISTA: A Visual Harness for Reasoning in an Interactive World](https://arxiv.org/abs/2610.02200) \
 Qiushi Han\*, Keya Hu\*, **Linlu Qiu\***, Cathy Wu, Kaiming He \
-*Blog post 2026*
+*Preprint 2026* \
+[\[code](https://github.com/joshhhhhan/VISTA), [blog\]](https://vista-research.github.io)
+
+[Bayesian Fine-tuning Yields Language Models that are as Bayesian as their Beliefs Allow](https://arxiv.org/abs/2610.00679) \
+Polina Tsvilodub\*, Andreas Waldis\*, **Linlu Qiu**, Tal Linzen, Michael Franke \
+*Preprint 2026*
 
 [Learning User Simulators with Turing Rewards](https://arxiv.org/abs/2606.19336) \
-Yingshan Susan Wang, Cedegao E. Zhang, **Linlu Qiu**, Zexue He, Pengyuan Li, Alex Pentland, Roger P. Levy, Yoon Kim \
-*Preprint 2026* \
+Yingshan Susan Wang\*, Cedegao E. Zhang\*, **Linlu Qiu\***, Zexue He\*, Pengyuan Li, Alex Pentland, Roger P. Levy, Yoon Kim \
+*EMNLP 2026* \
 [\[code\]](https://github.com/SusanWYS/turing-rl)
 
 [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938) \
 Keya Hu\*, **Linlu Qiu\***, Yiyang Lu, Hanhong Zhao, Tianhong Li, Yoon Kim, Jacob Andreas, Kaiming He \
-*Preprint 2026* \
+*NeurIPS 2026* \
 [\[code](https://github.com/lillian039/ELF), [slides](https://lillian039.github.io/assets/html/elf-slides/elf.html), [blog\]](https://linlu-qiu.github.io/assets/html/elf_pd.html)
 
 [Implicit Representations of Grammaticality in Language Models](https://arxiv.org/abs/2605.05197) \
@@ -107,6 +112,9 @@ Jiangmiao Pang, **Linlu Qiu**, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, and 
 
 Experience
 ------
+Visiting Student Researcher, Princeton University, June 2026 - August 2026 \
+Mentor: [Brenden Lake](https://www.cs.princeton.edu/~bl8144)
+
 Research Intern, Meta FAIR, May 2025 - January 2026 \
 Mentors: [Asli Celikyilmaz](http://asli.us), [Bhargavi Paranjape](https://bhargaviparanjape.github.io)
 
